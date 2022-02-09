@@ -1,0 +1,141 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon.eot?esr9ov');
+  src:  url('../fonts/icomoon.eot?esr9ov#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf?esr9ov') format('truetype'),
+    url('../fonts/icomoon.woff?esr9ov') format('woff'),
+    url('../fonts/icomoon.svg?esr9ov#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-magnifying-glass:before {
+  content: "\e900";
+}
+.icon-shopping-cart:before {
+  content: "\e901";
+}
+.icon-right-arrow:before {
+  content: "\e902";
+}
+.icon-cutlery:before {
+  content: "\e903";
+}
+.icon-cocktail:before {
+  content: "\e904";
+}
+.icon-health:before {
+  content: "\e905";
+}
+.icon-skincare:before {
+  content: "\e906";
+}
+.icon-shop:before {
+  content: "\e907";
+}
+.icon-car:before {
+  content: "\e908";
+}
+.icon-shopping-bags:before {
+  content: "\e909";
+}
+.icon-suitcase:before {
+  content: "\e90a";
+}
+.icon-quote:before {
+  content: "\e90b";
+}
+.icon-selection:before {
+  content: "\e90c";
+}
+.icon-focus:before {
+  content: "\e90d";
+}
+.icon-delete:before {
+  content: "\e90e";
+}
+.icon-exploration:before {
+  content: "\e90f";
+}
+.icon-calling:before {
+  content: "\e910";
+}
+.icon-heart:before {
+  content: "\e911";
+}
+.icon-directory:before {
+  content: "\e912";
+}
+.icon-clipboard:before {
+  content: "\e913";
+}
+.icon-discount:before {
+  content: "\e914";
+}
+.icon-plane:before {
+  content: "\e915";
+}
+.icon-map-location:before {
+  content: "\e916";
+}
+.icon-email:before {
+  content: "\e917";
+}
+.icon-phone:before {
+  content: "\e918";
+}
+.icon-weightlifting:before {
+  content: "\e919";
+}
+.icon-scissors:before {
+  content: "\e91a";
+}
+.icon-grid:before {
+  content: "\e91b";
+}
+.icon-list:before {
+  content: "\e91c";
+}
+.icon-purse:before {
+  content: "\e91d";
+}
+.icon-wifi:before {
+  content: "\e91e";
+}
+.icon-parking-sign:before {
+  content: "\e91f";
+}
+.icon-credit-card:before {
+  content: "\e920";
+}
+.icon-coupon:before {
+  content: "\e921";
+}
+.icon-paw:before {
+  content: "\e922";
+}
+.icon-group:before {
+  content: "\e923";
+}
+.icon-mother:before {
+  content: "\e924";
+}
+.icon-add:before {
+  content: "\e925";
+}
